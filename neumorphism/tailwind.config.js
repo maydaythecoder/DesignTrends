@@ -10,6 +10,7 @@ module.exports = {
       boxShadow: {
         neumorphic: '10px 10px 20px #bebebe, -10px -10px 20px #ffffff',
         'neumorphic-button': '4px 4px 8px #bebebe, -4px -4px 8px #ffffff',
+        'neumorphic-button-pressed': 'inset 4px 4px 8px #bebebe, inset -4px -4px 8px #ffffff',
       },
       backgroundImage: {
         "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
