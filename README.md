@@ -12,7 +12,7 @@ This project demonstrates a simple neumorphic design using React, TailwindCSS, a
 1. Clone the repository:
     ```sh
     git clone https://github.com/maydaythecoder/DesignTrends
-    cd https://github.com/maydaythecoder/DesignTrends
+    cd neumorphism
     ```
 
 2. Install the dependencies:
